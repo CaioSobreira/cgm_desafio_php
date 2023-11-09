@@ -50,3 +50,25 @@ Criar um gerenciamento aonde seja possível Criar, Listar, Editar e Visualizar a
 #### Você deverá incluir um arquivo com as instruções para rodar o seu projeto
 
 #### Serão avaliadas boas práticas de orientação a objetos e organização de código
+
+## Branches
+
+#### Cada participante deverá clonar a branch com seu nome, e submeter o código desenvolvido até o fim do prazo do teste
+
+git clone -b lucas_cruz git@github.com:CaioSobreira/cgm_desafio_php.git
+
+git clone -b william_silva git@github.com:CaioSobreira/cgm_desafio_php.git
+
+git clone -b gilson_silva git@github.com:CaioSobreira/cgm_desafio_php.git
+
+git clone -b cesar_muniz git@github.com:CaioSobreira/cgm_desafio_php.git
+
+git clone -b rafael_lima git@github.com:CaioSobreira/cgm_desafio_php.git
+
+git clone -b sandro_anconetani git@github.com:CaioSobreira/cgm_desafio_php.git
+
+git clone -b elemer_janovitz git@github.com:CaioSobreira/cgm_desafio_php.git
+
+git clone -b vitor_santos git@github.com:CaioSobreira/cgm_desafio_php.git
+
+git clone -b ariston_cordeiro git@github.com:CaioSobreira/cgm_desafio_php.git
