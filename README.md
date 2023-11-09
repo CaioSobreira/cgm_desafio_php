@@ -28,7 +28,9 @@ Criar um gerenciamento aonde seja possível Criar, Listar, Editar e Visualizar i
 **Atributos do imóvel**
 
 Tipo – Texto - obrigatório **(Valores permitidos: apenas “CASA” e “APARTAMENTO”)**
+
 Bairro – Texto – obrigatório
+
 Descrição – Texto – obrigatório (campo textual para descrever os detalhes do imóvel)
 
 ## CRUD de Corretores
@@ -38,7 +40,9 @@ Criar um gerenciamento aonde seja possível Criar, Listar, Editar e Visualizar c
 **Atributos do corretor**
 
 Nome – Texto - obrigatório
+
 Email – Texto – obrigatório
+
 Telefone – Texto – obrigatório
 
 ## CRUD  de anúncios
